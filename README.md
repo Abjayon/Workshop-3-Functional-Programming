@@ -1,2 +1,13 @@
-# Workshop-3-Functional-Programming
-This repository will serve as Resource page as well as Practice workshop for Functional Programming
+# Workshop-RXKS
+An InDepth Introduction to RXJS
+
+#### Legends   
+📝 - Article  
+🧠 - Important ( Must To Know )  
+🚀 - Hard  
+🍕 - Easy  
+🐱‍👤 - New Skill  
+
+
+
+### 📚Resource to Learn and Go through :  
