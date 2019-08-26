@@ -93,7 +93,7 @@ nonPrimeMemberPrice(500) // 300
 primeMemberPrice(500) //
 ```
 
-#### Resources 
+## Resources 
 Firstly get familiar with all new JS syntax (**ES5, ES6, ES7**).
 You should learn all the described syntax by heart.
 - [ ] [JS Features](https://jsfeatures.in/)
