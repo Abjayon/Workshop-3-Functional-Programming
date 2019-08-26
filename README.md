@@ -93,6 +93,19 @@ nonPrimeMemberPrice(500) // 300
 primeMemberPrice(500) //
 ```
 
+## Functional Terminology 
+
+### Purity
+
+### Side Effects
+
+### Idempotent
+
+### Point Free Style
+
+### Dot Chaining
+
+
 ## Resources 
 Firstly get familiar with all new JS syntax (**ES5, ES6, ES7**).
 You should learn all the described syntax by heart.
